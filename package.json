@@ -17,7 +17,7 @@
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
-    "chromedriver": "^126.0.4",
+    "chromedriver": "^123.0.6",
     "jest": "^29.7.0",
     "selenium-webdriver": "^4.22.0"
   }
